@@ -1,0 +1,79 @@
+{
+    "set_name": "\n2000 Base Set II\n",
+    "card_name": "Professor Oak   ",
+    "population_report": [
+        [
+            "PSA10",
+            "23"
+        ],
+        [
+            "PSA9",
+            "27"
+        ],
+        [
+            "PSA8",
+            "8"
+        ],
+        [
+            "PSA7",
+            "1"
+        ],
+        [
+            "PSA6",
+            "1"
+        ],
+        [
+            "PSA5",
+            "1"
+        ],
+        [
+            "PSA4",
+            "0"
+        ],
+        [
+            "PSA3",
+            "0"
+        ],
+        [
+            "PSA2",
+            "0"
+        ],
+        [
+            "PSA1",
+            "0"
+        ]
+    ],
+    "pop_report_date": "Population Report as of Friday, November 10, 2023",
+    "prices_data": [
+        {
+            "Date": "2021-11-24",
+            "Grade": "10",
+            "Price": "$18.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-11-23",
+            "Grade": "9",
+            "Price": "$7.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-11-16",
+            "Grade": "9",
+            "Price": "$10.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-10-25",
+            "Grade": "9",
+            "Price": "$26.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-02-01",
+            "Grade": "10",
+            "Price": "$12.74",
+            "Sale Type": "Buy It Now"
+        }
+    ]
+}
