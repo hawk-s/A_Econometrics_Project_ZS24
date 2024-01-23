@@ -20,7 +20,7 @@ def fetch_html_content_with_pagination_2(urls_dict, start_set_name, output_direc
         output_directory = os.getcwd()
 
     start_processing = False  # Flag to indicate when to start processing
-    folder_counter = 2  # Start numbering from 2
+    folder_counter = 1  # Start numbering from 1
 
     for set_name, urls in urls_dict.items():
         if set_name == start_set_name:
