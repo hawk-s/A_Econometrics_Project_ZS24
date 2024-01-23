@@ -1,0 +1,871 @@
+{
+    "set_name": "\n2002 Legendary Collection\n",
+    "card_name": "Venusaur Reverse Foil  ",
+    "population_report": [
+        [
+            "PSA10",
+            "76"
+        ],
+        [
+            "PSA9",
+            "234"
+        ],
+        [
+            "PSA8",
+            "191"
+        ],
+        [
+            "PSA7",
+            "151"
+        ],
+        [
+            "PSA6",
+            "109"
+        ],
+        [
+            "PSA5",
+            "88"
+        ],
+        [
+            "PSA4",
+            "35"
+        ],
+        [
+            "PSA3",
+            "24"
+        ],
+        [
+            "PSA2",
+            "14"
+        ],
+        [
+            "PSA1",
+            "26"
+        ]
+    ],
+    "pop_report_date": "Population Report as of Friday, November 10, 2023",
+    "prices_data": [
+        {
+            "Date": "2023-10-22",
+            "Grade": "8",
+            "Price": "$280.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-10-19",
+            "Grade": "5",
+            "Price": "$83.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-10-05",
+            "Grade": "10",
+            "Price": "$1,325.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-09-11",
+            "Grade": "9",
+            "Price": "$595.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-08-28",
+            "Grade": "3",
+            "Price": "$127.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-07-28",
+            "Grade": "8",
+            "Price": "$356.01",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-07-17",
+            "Grade": "10",
+            "Price": "$1,780.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-07-15",
+            "Grade": "3",
+            "Price": "$150.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-07-13",
+            "Grade": "7",
+            "Price": "$250.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-06-15",
+            "Grade": "6",
+            "Price": "$182.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-05-15",
+            "Grade": "7",
+            "Price": "$250.02",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-05-12",
+            "Grade": "10",
+            "Price": "$2,000.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-05-10",
+            "Grade": "8",
+            "Price": "$286.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-05-01",
+            "Grade": "5",
+            "Price": "$167.21",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-29",
+            "Grade": "7",
+            "Price": "$232.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-24",
+            "Grade": "8",
+            "Price": "$294.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-21",
+            "Grade": "10",
+            "Price": "$2,275.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-18",
+            "Grade": "7",
+            "Price": "$355.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-10",
+            "Grade": "9",
+            "Price": "$551.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-09",
+            "Grade": "5",
+            "Price": "$213.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-07",
+            "Grade": "7",
+            "Price": "$260.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-02",
+            "Grade": "9",
+            "Price": "$720.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-02-24",
+            "Grade": "7",
+            "Price": "$270.54",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-01-29",
+            "Grade": "8",
+            "Price": "$280.45",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-01-15",
+            "Grade": "7",
+            "Price": "$247.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-12-29",
+            "Grade": "8",
+            "Price": "$305.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-12-12",
+            "Grade": "7",
+            "Price": "$193.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-12-05",
+            "Grade": "9",
+            "Price": "$575.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-11-04",
+            "Grade": "7",
+            "Price": "$296.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-01-31",
+            "Grade": "9",
+            "Price": "$712.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-01-27",
+            "Grade": "9",
+            "Price": "$570.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-01-03",
+            "Grade": "6",
+            "Price": "$163.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-01-02",
+            "Grade": "8",
+            "Price": "$430.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-12-23",
+            "Grade": "9",
+            "Price": "$455.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-12-13",
+            "Grade": "9",
+            "Price": "$710.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-12-07",
+            "Grade": "9",
+            "Price": "$730.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-11-29",
+            "Grade": "9",
+            "Price": "$875.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-10-16",
+            "Grade": "6",
+            "Price": "$201.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-08-30",
+            "Grade": "7",
+            "Price": "$305.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-07-29",
+            "Grade": "10",
+            "Price": "$2,147.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-07-29",
+            "Grade": "4",
+            "Price": "$165.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-07-12",
+            "Grade": "3",
+            "Price": "$227.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-05-22",
+            "Grade": "9",
+            "Price": "$906.99",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-04-28",
+            "Grade": "10",
+            "Price": "$2,325.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-04-11",
+            "Grade": "7",
+            "Price": "$450.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2021-03-21",
+            "Grade": "7",
+            "Price": "$300.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2021-02-19",
+            "Grade": "8",
+            "Price": "$520.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2021-02-16",
+            "Grade": "8",
+            "Price": "$478.13",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2021-02-07",
+            "Grade": "6",
+            "Price": "$150.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-01-28",
+            "Grade": "8",
+            "Price": "$520.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-01-28",
+            "Grade": "7",
+            "Price": "$317.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2021-01-21",
+            "Grade": "10",
+            "Price": "$4,595.69",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2021-01-15",
+            "Grade": "8",
+            "Price": "$530.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2021-01-05",
+            "Grade": "8",
+            "Price": "$400.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-12-06",
+            "Grade": "9",
+            "Price": "$925.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-11-29",
+            "Grade": "9",
+            "Price": "$644.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-11-26",
+            "Grade": "7",
+            "Price": "$280.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-11-25",
+            "Grade": "7",
+            "Price": "$400.21",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-11-22",
+            "Grade": "4",
+            "Price": "$113.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-11-22",
+            "Grade": "7",
+            "Price": "$400.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-11-14",
+            "Grade": "8",
+            "Price": "$449.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-11-14",
+            "Grade": "10",
+            "Price": "$2,848.79",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-10-28",
+            "Grade": "9",
+            "Price": "$700.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-10-25",
+            "Grade": "9",
+            "Price": "$710.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-10-19",
+            "Grade": "9",
+            "Price": "$650.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-10-10",
+            "Grade": "6",
+            "Price": "$185.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-10-01",
+            "Grade": "7",
+            "Price": "$200.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-08-23",
+            "Grade": "8",
+            "Price": "$250.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-08-07",
+            "Grade": "1",
+            "Price": "$179.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-08-05",
+            "Grade": "10",
+            "Price": "$679.99",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-07-29",
+            "Grade": "6",
+            "Price": "$120.00",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2020-07-14",
+            "Grade": "8",
+            "Price": "$271.36",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2020-06-24",
+            "Grade": "9",
+            "Price": "$200.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-05-12",
+            "Grade": "4",
+            "Price": "$43.00",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2020-04-22",
+            "Grade": "8",
+            "Price": "$98.84",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-04-16",
+            "Grade": "9",
+            "Price": "$169.99",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2020-04-15",
+            "Grade": "10",
+            "Price": "$699.95",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2020-04-11",
+            "Grade": "7",
+            "Price": "$79.99",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2020-03-09",
+            "Grade": "7",
+            "Price": "$45.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-02-27",
+            "Grade": "5",
+            "Price": "$32.95",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2020-02-25",
+            "Grade": "9",
+            "Price": "$135.80",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2020-02-22",
+            "Grade": "10",
+            "Price": "$499.00",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2020-01-21",
+            "Grade": "6",
+            "Price": "$35.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-11-26",
+            "Grade": "10",
+            "Price": "$499.99",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2019-11-25",
+            "Grade": "10",
+            "Price": "$499.95",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2019-11-16",
+            "Grade": "7",
+            "Price": "$26.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-10-20",
+            "Grade": "7",
+            "Price": "$30.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-09-25",
+            "Grade": "9",
+            "Price": "$100.00",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2019-09-21",
+            "Grade": "9",
+            "Price": "$90.00",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2019-07-13",
+            "Grade": "7",
+            "Price": "$33.85",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-07-10",
+            "Grade": "10",
+            "Price": "$369.99",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2019-07-01",
+            "Grade": "8",
+            "Price": "$60.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-06-26",
+            "Grade": "10",
+            "Price": "$350.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2019-05-13",
+            "Grade": "9",
+            "Price": "$67.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-04-09",
+            "Grade": "9",
+            "Price": "$60.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-04-02",
+            "Grade": "8",
+            "Price": "$41.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-03-06",
+            "Grade": "8",
+            "Price": "$65.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2019-02-18",
+            "Grade": "10",
+            "Price": "$310.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2019-01-31",
+            "Grade": "10",
+            "Price": "$185.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2019-01-16",
+            "Grade": "10",
+            "Price": "$450.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-12-27",
+            "Grade": "10",
+            "Price": "$500.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-12-26",
+            "Grade": "7",
+            "Price": "$45.99",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2018-10-29",
+            "Grade": "8",
+            "Price": "$69.99",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-09-08",
+            "Grade": "6",
+            "Price": "$22.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-09-01",
+            "Grade": "1",
+            "Price": "$21.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-08-22",
+            "Grade": "10",
+            "Price": "$299.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-08-22",
+            "Grade": "9",
+            "Price": "$87.00",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2018-08-11",
+            "Grade": "9",
+            "Price": "$39.99",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-08-01",
+            "Grade": "4",
+            "Price": "$18.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-06-06",
+            "Grade": "10",
+            "Price": "$271.50",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-06-03",
+            "Grade": "6",
+            "Price": "$36.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-05-17",
+            "Grade": "5",
+            "Price": "$56.55",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-04-30",
+            "Grade": "9",
+            "Price": "$175.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-04-24",
+            "Grade": "9",
+            "Price": "$131.00",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2018-04-09",
+            "Grade": "9",
+            "Price": "$85.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-04-04",
+            "Grade": "10",
+            "Price": "$369.99",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-03-02",
+            "Grade": "9",
+            "Price": "$129.99",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-02-28",
+            "Grade": "10",
+            "Price": "$260.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-02-28",
+            "Grade": "9",
+            "Price": "$100.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-02-25",
+            "Grade": "10",
+            "Price": "$243.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2018-02-21",
+            "Grade": "10",
+            "Price": "$270.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2018-02-01",
+            "Grade": "10",
+            "Price": "$290.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2017-12-20",
+            "Grade": "10",
+            "Price": "$287.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2017-12-07",
+            "Grade": "9",
+            "Price": "$93.47",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2017-12-01",
+            "Grade": "10",
+            "Price": "$255.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2017-11-19",
+            "Grade": "9",
+            "Price": "$86.99",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2017-11-18",
+            "Grade": "10",
+            "Price": "$350.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2017-10-01",
+            "Grade": "9",
+            "Price": "$99.99",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2017-09-19",
+            "Grade": "10",
+            "Price": "$300.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2017-09-19",
+            "Grade": "9",
+            "Price": "$105.00",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2017-08-20",
+            "Grade": "10",
+            "Price": "$229.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2017-07-29",
+            "Grade": "9",
+            "Price": "$79.99",
+            "Sale Type": "Buy It Now"
+        },
+        {
+            "Date": "2017-07-25",
+            "Grade": "10",
+            "Price": "$275.00",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2017-07-10",
+            "Grade": "10",
+            "Price": "$285.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2017-07-01",
+            "Grade": "10",
+            "Price": "$582.68",
+            "Sale Type": "Best Offer"
+        },
+        {
+            "Date": "2017-06-05",
+            "Grade": "10",
+            "Price": "$382.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2017-03-11",
+            "Grade": "9",
+            "Price": "$77.00",
+            "Sale Type": "Auction"
+        }
+    ]
+}
