@@ -1,0 +1,85 @@
+{
+    "set_name": "\n2001 Neo Discovery\n",
+    "card_name": "Scyther   ",
+    "population_report": [
+        [
+            "PSA10",
+            "18"
+        ],
+        [
+            "PSA9",
+            "35"
+        ],
+        [
+            "PSA8",
+            "13"
+        ],
+        [
+            "PSA7",
+            "3"
+        ],
+        [
+            "PSA6",
+            "3"
+        ],
+        [
+            "PSA5",
+            "1"
+        ],
+        [
+            "PSA4",
+            "1"
+        ],
+        [
+            "PSA3",
+            "2"
+        ],
+        [
+            "PSA2",
+            "0"
+        ],
+        [
+            "PSA1",
+            "0"
+        ]
+    ],
+    "pop_report_date": "Population Report as of Friday, November 10, 2023",
+    "prices_data": [
+        {
+            "Date": "2023-09-29",
+            "Grade": "9",
+            "Price": "$20.00",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-07-17",
+            "Grade": "9",
+            "Price": "$10.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2023-03-14",
+            "Grade": "9",
+            "Price": "$15.74",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-10-30",
+            "Grade": "5",
+            "Price": "$6.50",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2022-09-05",
+            "Grade": "9",
+            "Price": "$30.12",
+            "Sale Type": "Auction"
+        },
+        {
+            "Date": "2020-06-14",
+            "Grade": "8",
+            "Price": "$20.00",
+            "Sale Type": "Best Offer"
+        }
+    ]
+}
