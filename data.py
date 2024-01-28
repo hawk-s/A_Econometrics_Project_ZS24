@@ -20,7 +20,8 @@ bond = "^TYX"
 od = "1999-01-01"
 do = "2023-12-31"
 interval = "1d"
-file_path = "/Users/jakubmichalski/IES/pokemon/output.csv"
+file_path = f"/Users/jakubmichalski/IES/pokemon/{stock}_output.csv"
+
 
 def data_download(name):
     raw_data = yf.download (tickers = name, start = od,
@@ -37,7 +38,7 @@ def returncompute(stock, bond):
     merged_data['Excess_Returns'] = merged_data['Stock_Returns'] - merged_data['Bond_Adjusted'].pct_change().dropna()
     return merged_data
 
-def dataframe_to_csv(dataframe, file_path, index=False):
+def dataframe_to_csv(dataframe, file_path, index=True):
 
     try:
         dataframe.to_csv(file_path, index=index)
@@ -50,3 +51,7 @@ tbond_adj = tbond.iloc[:,-2]
 sap = data_download(stock)
 mensi = price_volume(sap)
 data_a_returns = returncompute(mensi, tbond_adj)
+data_a_returns_reset_index = data_a_returns.reset_index()
+dataframe_to_csv(data_a_returns_reset_index, file_path)
+
+
