@@ -15,12 +15,12 @@ EPSON - 2003 -- "SEKEY"
 S&P500 -- "^GSPC"
 """
 
-stock = "SEKEY"
+stock = "^GSPC"
 bond = "^TYX"
-od = "1999-01-01"
+od = "2016-01-01"
 do = "2023-12-31"
-interval = "1d"
-file_path = f"/Users/jakubmichalski/IES/pokemon/{stock}_output.csv"
+interval = "1mo"
+file_path = f"{stock}_output_main.csv"
 
 
 def data_download(name):
