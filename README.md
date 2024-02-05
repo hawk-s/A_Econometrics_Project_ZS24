@@ -28,7 +28,7 @@ For a more powerful concoction, run `Data_processing_2_lagged.ipynb` **FIRST AFT
 
 ## 📊 Data Analysis
 
-To behold the magic yourself or replicate our enchantments, consult the following grimoires (Jupyter Notebooks with an R kernel):
+To behold the magic yourself or replicate our enchantments, consult the following grimoires (**The Main Analyses Files** - Jupyter Notebooks with an R kernel featuring the whole analysis including visuals):
 
 - `ANALYSIS1_FINAL.ipynb`
 - `ANALYSIS2_FINAL.ipynb`
