@@ -1,34 +1,34 @@
-# 🌟 A_Econometrics_Project_ZS24 🌟
+# A_Econometrics_Project_ZS24
 
-Welcome to our repository for the **Pokémon Cards x Financial Markets Investments** project, presented for the Advanced Econometrics course at IES, Charles University. This adventurous journey through data is brought to you by Jan Hrušák and Jakub Michalski. 📊✨
+Welcome to our repository for the **Pokémon Cards x Financial Markets Investments** project, part of the Advanced Econometrics course at IES, Charles University. This project is the collaborative effort of Jan Hrušák and Jakub Michalski, aiming to blend the intriguing world of Pokémon card trading with the rigorous analysis of financial markets.
 
-## 🚀 Scraping and Data Retrieval
+## Scraping and Data Retrieval
 
-Inside the `scraping/fctions` directory, you'll find all the necessary magic spells (functions) along with our main wizard's book, the Python Jupyter Notebook `A_scraper.ipynb`, focused on conjuring (web-scraping) Pokémon cards prices from the vast internet. 🌐
+In the `scraping/fctions` directory, you'll find the tools needed for the initial phase of our expedition: gathering data. The main instrument of our data collection, a Python Jupyter Notebook titled `A_scraper.ipynb`, is dedicated to the meticulous task of scraping Pokémon card prices from the web.
 
-Ensure you're connected to the world's mana (a stable internet connection) before running the cells in the Jupyter Notebook. After gathering all data into the `sets` cauldron, proceed with `A2_data_processing.ipynb` to brew two raw `.xlsx` potions:
-- `card_prices_data.xlsx` with Pokémon card prices for various grades
-- `card_data_grade.xlsx` with a population report, which we'll leave for another adventure (not used in the analysis).
+A stable internet connection is your ally in this endeavor. Upon successfully running the notebook, the data collected will be stored in the `sets` directory, paving the way for the next phase: `A2_data_processing.ipynb`. This notebook processes the gathered data into two primary datasets:
+- `card_prices_data.xlsx` containing prices across various card grades.
+- `card_data_grade.xlsx` focusing on the population report for these grades, though this dataset takes a backseat in our analysis.
 
-🌟 **Shortcut:** If you wish to skip the spell casting and go straight to the treasure, download both `.xlsx` files directly from the repository.
+**For those inclined to skip the data collection saga and dive straight into the treasure trove of data, the aforementioned `.xlsx` files are ready for download directly from the repository.**
 
-⚠️ **Caution:** Running the code might replace existing treasures unless you rename your target folders or files. This is usually done with a simple wave of your wand (function parameter/input).
+A word of caution: launching these scripts may overwrite existing data unless you rename the destination folders or files via a simple parameter adjustment in the functions.
 
-📈 The **stocks data** potion can be prepared by running `Data_stocks.py`, found not in any dungeon but right at the entrance of our repository. Brewing this potion creates a dataset named `^GSPC_output.csv`.
+The **stocks data** journey begins with `Data_stocks.py`, conveniently located at the repository's entrance. Executing this script will yield a dataset named akin to `^GSPC_output.csv`.
 
-## 🧙‍♂️ Data Processing
+## Data Processing
 
-After gathering your data treasures, or if you've already got some in your bag, head over to the main site of our repository to continue the quest. Your first task is to find and run `Data_processin_R.ipynb` to generate datasets rich with observations. The incantation (parameter) for observations per year can be altered; the default is 200.
+With the data in hand, or if you're starting with pre-existing datasets, the main repository page is your next destination. The quest continues with `Data_processin_R.ipynb`, designed to generate datasets enriched with the most observations per year (defaulting to 200).
 
-Next, summon `Data_processing_2.ipynb` (crafted in Python, unlike its R sibling) to merge datasets of stocks/S&P500 with the Pokémon cards prices, creating a monthly frequency dataset. However, this potion lacks the power of hindsight (lagged variables)!
+Following this, `Data_processing_2.ipynb` (this time, a Python notebook) merges the datasets of stocks/S&P500 prices with Pokémon card prices, outputting a dataset of monthly frequency, albeit sans lagged variables.
 
-For a more powerful concoction, run `Data_processing_2_lagged.ipynb` **FIRST AFTER** successfully brewing `Data_processing_2.ipynb`. This final potion will be used as input for our analysis.
+To incorporate these crucial lagged variables into your analysis, `Data_processing_2_lagged.ipynb` must be run **AFTER** the successful completion of `Data_processing_2.ipynb`, culminating in the datasets destined for final analysis.
 
-🌟 **Pro Tip:** If you seek the final potions without the alchemy, download them in `.csv` form from the `lagged_merged_datasets_final` treasure chest!
+**Tip:** For those wishing to bypass the groundwork and access the final datasets directly, they are available for download in `.csv` format within the `lagged_merged_datasets_final` directory.
 
-## 📊 Data Analysis
+## Data Analysis
 
-To behold the magic yourself or replicate our enchantments, consult the following grimoires (**The Main Analyses Files** - Jupyter Notebooks with an R kernel featuring the whole analysis including visuals):
+To replicate our analysis or to simply peruse through our code, plots, and findings, the following R-kernel Jupyter Notebooks are at your service:
 
 - `ANALYSIS1_FINAL.ipynb`
 - `ANALYSIS2_FINAL.ipynb`
@@ -38,4 +38,5 @@ To behold the magic yourself or replicate our enchantments, consult the followin
 - `ANALYSIS9_FINAL.ipynb`
 - `ANALYSIS10_FINAL.ipynb`
 
-Embark on this journey with us, through realms of data and seas of analysis, to uncover insights as brave and beautiful as the quest itself! 🌌✨
+We invite you to join us on this scholarly journey, where the worlds of Pokémon and finance collide, promising insights that are as enlightening as they are engaging.
+
